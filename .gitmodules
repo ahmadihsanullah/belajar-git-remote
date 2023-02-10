@@ -1,3 +1,4 @@
 [submodule "scipts"]
 	path = scipts
 	url = git@github.com:ahmadihsanullah/belajar-git-submodule.git
+	branch = release
